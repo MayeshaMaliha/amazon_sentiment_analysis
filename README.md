@@ -4,6 +4,8 @@
 Given Amazon product reviews, can we automatically predict whether the sentiment of a review is **positive** or **negative**?
 
 ## 📁 Dataset
+**Note: The dataset Reviews.csv is too large for GitHub and has been excluded. Please download it from Kaggle and place it in the data/ directory manually.**
+
 - Size: ~568,000 reviews
 - Source: Amazon Fine Food Reviews (Kaggle)
 - Fields Used: `Text`, `Score`
